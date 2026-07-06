@@ -16,6 +16,7 @@ A hands-on project-based exploration of Large Language Models, building componen
 | 7 | `attention_mechanism.ipynb` | Scaled dot-product and multi-head attention |
 | 8 | `transformer_basics.ipynb` | Building the Transformer architecture |
 | 9 | `instruction_fine_tuning_intro.ipynb` | Fine-tuning LLMs on instruction datasets |
+| 10 | `instruction_fine_tuning_dataloader_training.ipynb` | DataLoaders, label masking, and full training loop for instruction fine-tuning |
 | — | `implementing_dummy_gpt_model.ipynb` | A minimal GPT-style model implementation |
 | — | `Project_1.ipynb` | Capstone / miscellaneous project |
 
