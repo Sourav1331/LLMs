@@ -1,0 +1,7 @@
+fine_tuned_distilgpt2_instruction_demo/
+.ipynb_checkpoints/
+ __pycache__/
+ *.pyc
+ .env
+ .venv/
+ venv/
