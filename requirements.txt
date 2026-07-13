@@ -1,0 +1,23 @@
+# Core data science
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+jupyterlab
+
+# Deep learning / NLP
+torch
+transformers
+datasets
+tokenizers
+sentencepiece
+accelerate
+
+# Utilities
+tqdm
+wandb
+mlflow
+
+# Optional: install OS/CUDA-specific torch wheel as needed
+# Example (Linux, CUDA 11.8): pip install torch --index-url https://download.pytorch.org/whl/cu118
